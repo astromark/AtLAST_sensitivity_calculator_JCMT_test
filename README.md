@@ -1,5 +1,9 @@
 ![example workflow](https://github.com/ukatc/AtLAST_sensitivity_calculator/actions/workflows/lint-test.yml/badge.svg)
 
+JCMT Test Version
+=================
+
+The purpose of this fork is to test implementing new instruments by recreating the JCMT instruments HARP and JCMT. NB: this is not intended for widespread use but as a software development exercise.
 
 Background
 ==========
