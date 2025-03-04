@@ -1,4 +1,4 @@
-name: sens-calc
+name: sens-calc-jcmt-test
 channels:
   - conda-forge
   - defaults
